@@ -3,7 +3,6 @@
 
 <div align="center">
   <a href="https://discord.gg/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/></a>
-  <input type="email" placeholder="orlovskayau17@gmail.com" id="email" name="email"/><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   <a href="https://t.me/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  /></a>
 </div>
 
