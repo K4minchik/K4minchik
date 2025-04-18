@@ -3,11 +3,11 @@
 
 <div align="center">
   <a href="https://discord.gg/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <a href="orlovskayau17@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /></a>
+  <a href="https://t.me/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  /></a>
 </div>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">🗣 About me:</h3>
 
 - 🔭 I’m currently working on **Deception and Honor (Unity PC game)**
 
@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🖥 Languages and Tools:</h3>
 <div align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /></a>
   <img width="12" />
