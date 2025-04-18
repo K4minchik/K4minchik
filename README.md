@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I add easter eggs to games from my real life :)**
 
+- 💫 Here you can find some of my projects in **python and html (Unity games will be on itch.io)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/k4minchik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k4minchik" height="30" width="40" /></a>
