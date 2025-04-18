@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I add easter eggs to games from my real life :)**
 
-- 💫 Here you can find some of my projects in **python and html (Unity games will be on itch.io)**
+- 💫 Here you can find some of my projects in **Python и HTML (Unity games will be on itch.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
