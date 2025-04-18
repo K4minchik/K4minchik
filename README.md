@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @k4minchik</h1>
+<h1 align="center">Hi 👋, I'm k4minchik</h1>
 <h3 align="center">Aspiring developer of a wide variety of games 😃</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4minchik&label=Profile%20views&color=ff8000&style=flat" alt="k4minchik" /> </p>
