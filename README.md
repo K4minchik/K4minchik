@@ -6,7 +6,7 @@
   <a href="https://t.me/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  /></a>
 </div>
 
-<h3 align="left">🗣 About me:</h3>
+<h3 align="left">About me:</h3>
 
 - I’m currently working on **Deception and Honor (Unity multiplayer PC game)**
 
