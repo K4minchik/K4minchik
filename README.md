@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm k4minchik</h1>
-<h3 align="center">Aspiring developer of a wide variety of games 😃</h3>
+<h3 align="center">Aspiring developer of a wide variety of games :)</h3>
 
 <div align="center">
   <a href="https://discord.gg/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/></a>
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">🖥 Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /></a>
   <img width="12" />
