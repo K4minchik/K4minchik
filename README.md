@@ -8,15 +8,13 @@
 
 <h3 align="left">🗣 About me:</h3>
 
-- 🔭 I’m currently working on **Deception and Honor (Unity PC game)**
+- I’m currently working on **Deception and Honor (Unity multiplayer PC game)**
 
-- 🌱 I’m currently learning **Unity, C#**
+- I’m currently learning **Unity, C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/K4minchik?tab=repositories](https://github.com/K4minchik?tab=repositories)
+- All of my projects are available at [https://github.com/K4minchik?tab=repositories](https://github.com/K4minchik?tab=repositories)
 
-- ⚡ Fun fact **I add easter eggs to games from my real life :)**
-
-- 💫 Here you can find some of my projects in **Python и HTML (Unity games will be on itch.io)**
+- Here you can find some of my projects in **Python и HTML (Unity games will be on itch.io)**
 
 
 
