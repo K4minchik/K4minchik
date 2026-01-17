@@ -19,13 +19,9 @@
 
 ---
 
-<div align="left" style="background: linear-gradient(135deg, #1a1a1a 0%, #222 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #FF8C00; margin: 25px 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
-  <p style="margin: 0; font-size: 16px; line-height: 1.6; color: #e6e6e6;">
-    <strong style="color: #FF8C00;">Exploring my path in everything</strong>, currently creating indie games.<br>
-    <strong style="color: #FF8C00;">Currently learning and developing</strong> in Unity & C#.
-  </p>
-</div>
-
+  - You can view the <strong>source code</strong> for my projects here.</br>
+  - Currently learning and developing indie games in <strong>Unity & C#</strong>.
+  
 ---
 
 ## 🚀 Currently Working On
