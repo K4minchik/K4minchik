@@ -1,38 +1,85 @@
-<h1 align="center">Hi 👋, I'm k4minchik</h1>
-<h3 align="center">Aspiring developer of a wide variety of games :)</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=2800&pause=500&color=FF8C00&center=false&vCenter=true&width=600&lines=K4minchik;Indie+Game+Developer;English+%2F+Russian" alt="Typing" />
+</p>
 
-<div align="center">
-  <a href="https://discord.gg/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"/></a>
-  <a href="https://t.me/k4minchik" target="blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  /></a>
+<p align="left">
+  <a href="https://github.com/K4minchik?tab=repositories" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@kaaminchik/videos" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/users/k4minchik" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://k4minchik.itch.io" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Itch.io" />
+  </a>
+</p>
+
+---
+
+<div align="left" style="background: linear-gradient(135deg, #1a1a1a 0%, #222 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #FF8C00; margin: 25px 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
+  <p style="margin: 0; font-size: 16px; line-height: 1.6; color: #e6e6e6;">
+    <strong style="color: #FF8C00;">Exploring my path in everything</strong>, currently creating indie games.<br>
+    <strong style="color: #FF8C00;">Currently learning and developing</strong> in Unity & C#.
+  </p>
 </div>
 
-<h3 align="left">About me:</h3>
+---
 
-- I’m currently working on **Deception and Honor (Unity multiplayer PC game)**
+## 🚀 Currently Working On
+`Deception And Honor` — multiplayer Unity game for 3 to 5 players with strategy elements
 
-- I’m currently learning **Unity, C#**
+---
 
-- All of my projects are available at [https://github.com/K4minchik?tab=repositories](https://github.com/K4minchik?tab=repositories)
+## 💻 Programming Languages & Tools
 
-- Here you can find some of my projects in **Python и HTML (Unity games will be on itch.io)**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /></a>
-  <img width="12" />
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  /></a>
-  <img width="12" />
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"/></a>
-  <img width="12" />
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /></a>
-  <img width="12" />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
-  <img width="12" />
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
-  <img width="12" />
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
+### Main Technologies
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=FFFFFF" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">Unity</strong>
+  </span>
+  
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">C#</strong>
+  </span>
 </div>
 
+### Graphics & Design
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">Blender</strong>
+  </span>
+  
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=31A8FF" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">Photoshop</strong>
+  </span>
+</div>
 
+### Additional Languages
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">C++</strong>
+  </span>
+  
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">Python</strong>
+  </span>
+  
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">HTML</strong>
+  </span>
+  
+  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
+    <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
+    <strong style="color: #FF8C00;">CSS</strong>
+  </span>
+</div>
