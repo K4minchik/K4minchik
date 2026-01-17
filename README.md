@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=2800&pause=500&color=FF8C00&center=false&vCenter=true&width=600&lines=K4minchik;Indie+Game+Developer;English+%2F+Russian" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=2800&pause=500&color=FF8C00&center=false&vCenter=true&width=600&lines=K4minchik;Indie+Game+Developer;English+%2F+Russian;Alisa+Orlovskaia" alt="Typing" />
 </p>
 
 <p align="left">
