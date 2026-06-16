@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 Currently Working On
-`Deception And Honor` — multiplayer Unity game for 3 to 5 players with strategy elements
+`It's hard at times` — rogalic game about life?
 
 ---
 
