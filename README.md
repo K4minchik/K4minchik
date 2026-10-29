@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=2800&pause=500&color=FF8C00&center=false&vCenter=true&width=600&lines=K4minchik;Indie+Game+Developer;English+%2F+Russian;Alisa+Orlovskaia" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&duration=2800&pause=500&color=FF8C00&center=false&vCenter=true&width=600&lines=K4minchik;Indie+Game+Developer;English+%2F+Russian" alt="Typing" />
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 Currently Working On
-`It's hard at times` — rogalic game about life?
+`It's hard at times` — a roguelite game that’s a mix of Brotato and Soulstone Survivors
 
 ---
 
@@ -67,15 +67,5 @@
   <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
     <strong style="color: #FF8C00;">Python</strong>
-  </span>
-  
-  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
-    <strong style="color: #FF8C00;">HTML</strong>
-  </span>
-  
-  <span style="display: flex; align-items: center; background-color: #222; padding: 8px 18px; border-radius: 8px; border: 2px solid #444; margin: 5px;">
-    <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="22" height="22" style="margin-right: 10px;">
-    <strong style="color: #FF8C00;">CSS</strong>
   </span>
 </div>
